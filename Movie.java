@@ -1,3 +1,5 @@
+package revel1;
+
 
 /**
  * Movie class, represents a Movie object
@@ -92,3 +94,4 @@ public class Movie {
 		return (this.title+" ("+this.rating+"): Tickets Sold: "+this.soldTickets);
 	}
 }
+
